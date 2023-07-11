@@ -19,10 +19,7 @@ pairs = [
         r"sorry (.*)",
         ["No problem."]
     ],
-    [
-        r"2+3",
-        ["5"]
-    ],
+    
     [
         r"quit",
         ["Goodbye! Have a great day."]
